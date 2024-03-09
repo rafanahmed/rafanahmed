@@ -1,6 +1,6 @@
 <h1 align="center">Helloo! 👋 , I'm Rafan Ahmed</h1>
 <h3 align="center">Aspiring Software Engineer from Charlotte, NC</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/13482669/file/original-5b85491e5a3c4787310de81464d6f340.gif" alt="Your GIF">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/userupload/13482669/file/original-5b85491e5a3c4787310de81464d6f340.gif" alt="Your GIF">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rafanahmed" /> </p>
