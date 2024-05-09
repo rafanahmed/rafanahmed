@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rafanahmed" /> </p>
 
-- 🛠️ I’m currently working on **a VST VFX Plugin**
+- 🛠️ Currently working on **a VST VFX Plugin**
 
-- 📚 I’m currently learning **Computer Science @ UNC Charlotte, Python, Java, C++**
+- 📚 Currently learning **Computer Science @ UNC Charlotte, Python, Java, C++**
 
-- 🤝 I’m looking for collaborators for **a VST VFX Plugin**
+- 🤝 Looking for collaborators for **a VST VFX Plugin**
 
 - 📫 Shoot me an email @ **r.ahmed20027@gmail.com**
 
