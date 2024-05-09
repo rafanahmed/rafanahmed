@@ -7,7 +7,7 @@
 
 - 🛠️ Currently working on **a VST VFX Plugin**
 
-- 📚 Currently learning **Computer Science @ UNC Charlotte, Python, Java, C++**
+- 📚 Learning **Computer Science at UNC Charlotte, Python, Java, C++**
 
 - 🤝 Looking for collaborators for **a VST VFX Plugin**
 
