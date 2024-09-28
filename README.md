@@ -13,8 +13,6 @@
 
 - 📫 Shoot me an email @ **r.ahmed20027@gmail.com**
 
-- 📄 Get to know me more :D [https://rahmedresume.tiiny.site](https://rahmedresume.tiiny.site)
-
 - 😁 Fun fact **I make music and mix and master my own songs!**
 
 <h3 align="left">Connect with me:</h3>
