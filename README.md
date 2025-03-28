@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rafanahmed" /> </p>
 
-- 🛠️ Currently working on **a VST VFX Plugin**
+- 🛠️ Currently working on **a Basic RNN Trading Strategy**
 
 - 📚 Learning **Computer Science at UNC Charlotte, Python, Java, C++**
 
-- 🤝 Looking for collaborators for **a VST VFX Plugin**
+- 🤝 Looking for collaborators for **any project!**
 
-- 📫 Shoot me an email @ **r.ahmed20027@gmail.com**
+- 📫 Shoot me an email @ **inquiries.to.rafan@gmail.com**
 
 - 😁 Fun fact **I make music and mix and master my own songs!**
 
