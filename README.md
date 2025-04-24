@@ -1,6 +1,8 @@
 <h1 align="center">Hello! 👋 , I'm Rafan Ahmed</h1>
 <h3 align="center">Aspiring CS Student from Charlotte, NC (a curious cat in the world of programming :3)</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/userupload/13482669/file/original-5b85491e5a3c4787310de81464d6f340.gif" alt="Your GIF">
+<img align="right" alt="Coding Cat" width="350" src="https://raw.githubusercontent.com/rafanahmed/rafanahmed/main/coding-cat.gif">
+
+
 
 
 
