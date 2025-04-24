@@ -1,8 +1,6 @@
 <h1 align="center">Hello! 👋 , I'm Rafan Ahmed</h1>
 <h3 align="center">Aspiring CS Student from Charlotte, NC (a curious cat in the world of programming :3)</h3>
-<img align="right" alt="Coding Cat" width="350" src="https://raw.githubusercontent.com/rafanahmed/rafanahmed/main/coding-cat.gif">
-
-
+<img align="right" alt="Coding Cat" width="350" src="https://raw.githubusercontent.com/rafanahmed/rafanahmed/main/coding-cat.gif" />
 
 
 
