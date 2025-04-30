@@ -30,16 +30,22 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rafanahmed&theme=radical" 
-    alt="rafanahmed streak stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafanahmed&layout=compact&theme=radical&hide_border=true&langs_count=6" 
-    width="400" 
-    height="200" 
-    alt="Top Languages"
-  />
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=rafanahmed&theme=radical" 
+          alt="GitHub Streak Stats"
+        />
+      </td>
+      <td style="border: none;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafanahmed&layout=compact&theme=radical&hide_border=true&langs_count=6" 
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
