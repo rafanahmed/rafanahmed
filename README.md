@@ -11,7 +11,7 @@
 
 - 🤝 Looking for collaborators for **any project** and **internship opportunities!**
 
-- 📫 Shoot me an email @ **inquiries.to.rafan@gmail.com**
+- 📫 Shoot me an email @ **ahmedrafan235@gmail.com**
 
 - 😁 Fun fact **I make music and mix and master my own songs!**
 
