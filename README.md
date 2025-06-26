@@ -33,10 +33,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafanahmed&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafanahmed&theme=radical&hide_border=true&langs_count=4" alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafanahmed&theme=radical&hide_border=true" alt="rafanahmed" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafanahmed&" alt="rafanahmed" />
     </td>
   </tr>
 </table>
