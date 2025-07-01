@@ -18,7 +18,7 @@
 - 💻 Check out my portfolio website: **https://rafan-ahmed.vercel.app/**
 
 
-## 📊 GitHub Stats
+
 <div align="center">
 
 <table>
