@@ -27,7 +27,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafanahmed&theme=github_dark&hide_border=true&langs_count=4" alt="Top Languages"/>
     </td>
     <td>
-      <img src="" alt="Rafan Ahmed Stats" width="600px"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafanahmed&theme=github_dark&" alt="Rafan Ahmed Stats" width="600px"/>
     </td>
   </tr>
 </table>
@@ -35,15 +35,6 @@
 </div>
 
 
-
-
-
-
-
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=rafanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rafanahmed" />
-</div>
 
 
 
