@@ -27,7 +27,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafanahmed&theme=github_dark&hide_border=true&langs_count=4" alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafanahmed&hide_border=true&area_color=ff5e99&line=ffa07a&point=ffcc70&bg_color=0d1117&color=ffffff" alt="GitHub Activity Graph" width="600px"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafanahmed&theme=github_dark&" alt="Rafan Ahmed Stats" width="600px"/>
     </td>
   </tr>
 </table>
