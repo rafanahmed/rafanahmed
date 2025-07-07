@@ -13,7 +13,7 @@
 
 - 📫 Shoot me an email @ **ahmedrafan235@gmail.com**
 
-- 😁 Fun fact **I run a YouTube channel that you should absolutley subscribe to!**
+- 😁 Fun fact **I run a YouTube channel that you should absolutely subscribe to!**
 
 - 💻 Check out my portfolio website: **https://rafan-ahmed.vercel.app/**
 
