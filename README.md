@@ -5,15 +5,15 @@
 
 
 
-- 🛠️ Currently working on **a Basic RNN Trading Strategy**
+- 🛠️ Currently working on **a Monte Carlo Simulation for Portfolio Returns**
 
-- 📚 Learning **Computer Science with a concentration in AI/Machine Learning & Quantative Finance**
+- 📚 Learning **Comp Sci & Mathematics with a concentration in AI/Machine Learning & Quantative Finance**
 
-- 🤝 Looking for collaborators for **any project** and **internship opportunities!**
+- 🤝 Looking for collaborators for **internship opportunities!**
 
 - 📫 Shoot me an email @ **ahmedrafan235@gmail.com**
 
-- 😁 Fun fact **I make music and mix and master my own songs!**
+- 😁 Fun fact **I run a YouTube channel that you should absolutley subscribe to!**
 
 - 💻 Check out my portfolio website: **https://rafan-ahmed.vercel.app/**
 
