@@ -5,17 +5,17 @@
 
 
 
-- 🛠️ Currently working on **a Monte Carlo Simulation for Portfolio Returns**
+- Currently working on **Expected vs. Realized Move in Options Using Random Forest Regressions**
 
-- 📚 Learning **Comp Sci & Mathematics with a concentration in AI/Machine Learning & Quantative Finance**
+- Learning **Comp Sci & Mathematics with a concentration in AI/Machine Learning & Quantative Finance**
 
-- 🤝 Looking for collaborators for **internship opportunities!**
+- Looking for collaborators & **internship opportunities!**
 
-- 📫 Shoot me an email @ **ahmedrafan235@gmail.com**
+- Shoot me an email @ **ahmedrafan235@gmail.com**
 
-- 😁 Fun fact **I run a YouTube channel that you should absolutely subscribe to!**
+- Fun fact **I run a YouTube channel that you should absolutely subscribe to!**
 
-- 💻 Check out my portfolio website: **https://rafan-ahmed.vercel.app/**
+- Check out my portfolio website: **https://rafan-ahmed.vercel.app/**
 
 
 
