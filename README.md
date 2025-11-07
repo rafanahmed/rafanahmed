@@ -18,6 +18,10 @@
   <img src="./assets/36066BEC-4049-4FB8-BC37-88A374C1BBBC.GIF" width="155" alt="Gnosis"/>
 </p>
 
+<p align="left">
+  <img src="./assets/DCAB79D6-431B-4A34-895D-FDF8A3305C27.GIF" width="155" alt="Gnosis2"/>
+</p>
+
 <div align="center">
   <table>
     <tr>
