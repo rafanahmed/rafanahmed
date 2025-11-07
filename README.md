@@ -1,23 +1,13 @@
-<h1 align="center">Hello! 👋 , I'm Rafan Ahmed</h1>
-<h3 align="center">Aspiring CS Student from Charlotte, NC (a curious cat in the world of programming :3)</h3>
+<h1 align="center">Hai! I'm Rafan Ahmed!</h1>
+<h3 align="center">A curious cat in the world of computational finance and the esoteric realms of stochasticity :3</h3>
 <img align="right" alt="Coding Cat" width="285" src="https://rafanahmed.github.io/rafanahmed/assets/coding-cat.gif" />
 
 
-
-
-- Currently working on **Expected vs. Realized Move in Options Using Random Forest Regressions**
-
-- Learning **Comp Sci & Mathematics with a concentration in AI/Machine Learning & Quantative Finance**
-
-- Looking for collaborators & **internship opportunities!**
-
 - Shoot me an email @ **ahmedrafan235@gmail.com**
 
-- Fun fact **I run a YouTube channel that you should absolutely subscribe to!**
+- I make youtube videos on computers, finance, psychology, theology & myself on **https://www.youtube.com/@Quantuuuuuum**
 
-- Check out my portfolio website: **https://rafan-ahmed.vercel.app/**
-
-
+- On the constant acquisition of gnosis, fulfilling the divine spark within us all <3 
 
 <div align="center">
 
