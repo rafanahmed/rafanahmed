@@ -9,7 +9,7 @@
 <ul style="margin:0; padding-left:20px;">
   <li>Shoot me an email @ <a href="mailto:ahmedrafan235@gmail.com"><b>ahmedrafan235@gmail.com</b></a></li>
   <li>I make YouTube videos on computers, finance, philosophy, theology & personal psychology on 
-    <a href="https://www.youtube.com/@Quantuuuuuum"><b>youtube.com/@gnosticboy</b></a>
+    <a href="https://www.youtube.com/@gnosticboy"><b>youtube.com/@gnosticboy</b></a>
   </li>
   <li>On the constant acquisition of gnosis, fulfilling the divine spark within us all &lt;3</li>
 </ul>
