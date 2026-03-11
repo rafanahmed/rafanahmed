@@ -7,7 +7,6 @@
 <img align="right" alt="Coding Cat" width="285" src="https://rafanahmed.github.io/rafanahmed/assets/coding-cat.gif" />
 
 <ul style="margin:0; padding-left:20px;">
-  <li>Shoot me an email @ <a href="mailto:ahmedrafan235@gmail.com"><b>ahmedrafan235@gmail.com</b></a></li>
   <li>On the constant acquisition of gnosis, fulfilling the divine spark within us all &lt;3</li>
 </ul>
 
